@@ -7,4 +7,9 @@ else:
 #BUCLE
 for i in range(5):
     print("Hola Mundo")
-    
+
+#while
+contador = 1
+while contador <= 5:
+    print("Numero: " + str(contador))
+    contador = contador + 1
